@@ -1,0 +1,42 @@
+*{
+    margin: 0%;
+}
+
+.head{
+    background-color: aqua;
+    width: 100%;
+    text-align: center;
+    height: 70px;
+ }
+
+ .content{
+    overflow: hidden;
+}
+.menu{
+    background-color: burlywood;
+    width: 20%;
+    text-align: center;
+    height: 600px;
+    float: left;
+}
+.art{
+    background-color: chartreuse;
+    width: 60%;
+    text-align: center;
+    height: 600px;
+    float: left;
+
+}
+.ad{
+    background-color: blue;
+    width: 20%;
+    text-align: center;
+    height: 600px;
+    float: left;
+}
+
+.fot{
+    background-color: red;
+    width: 100%;
+  text-align: center;
+}
